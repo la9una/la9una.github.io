@@ -1,9 +1,9 @@
 ---
-title: Físico Química 3 (Prof. Ramos - Previa)
+title: Físico Química 3
 updated: 2015-12-05 15:56
 ---
 
-### Temario 
+### Pendientes (Prof. Isabel Ramos) 
 
 Los temas incluidos en la comisión evaluadora son seleccionados a partir de los impartidos por la profesora **Isabel Ramos** en **Físico - Química de tercer año**. 
 

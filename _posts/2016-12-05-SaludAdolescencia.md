@@ -3,7 +3,8 @@ title: Salud y Adolescencia
 updated: 2015-12-05 15:56
 ---
 
-### Temario
+### Regulares (Prof. Raúl López)
+
 Se detallan a continuación los contenidos centrales de la materia **Salud y Adolescencia** de **cuarto año** correspondientes al examen de la comisión evaluadora: 
 
 1. Concepto de Salud según la OMS y OPS. La visión integral Bio-Psico-Socio-Espiritual.
@@ -19,7 +20,7 @@ Se detallan a continuación los contenidos centrales de la materia **Salud y Ado
 10. Atentados contra la vida. Tipos y descripción. 
 11. Las ITS y ETS. Tipos. Ejemplos.
  
-### Alumnos libres
+#### Alumnos libres
 
 Los alumnos que por inasistencias han perdido su condición de alumno regular deberán rendir exámen en la instancia de comisión evaluadora. 
 
@@ -32,3 +33,16 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 **2. El alumno aprobó la materia y además quedó libre**
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
+
+
+### Pendientes (Prof. Isabel Ramos) 
+
+Los temas incluidos en la comisión evaluadora son seleccionados a partir de los impartidos por el profesor **Isabel Ramos** en **Salud y Adolescencia** de **cuarto año**. 
+
+Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
+
+* [Mayo de 2016](../medocs/4saad/2016_05_24_com_eva_saludyadol_ramos.pdf)
+* [Agosto de 2016](../medocs/4saad/2016_08_02_com_eva_saludyadol_ramos.pdf)
+* [Octubre de 2016](../medocs/4saad/2016_10_com_eva_saludyadol_ramos.pdf)
+
+¡Éxito!
