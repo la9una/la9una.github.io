@@ -7,6 +7,8 @@ updated: 2015-12-05 15:56
 
 Se detallan a continuación los contenidos centrales de la materia **Salud y Adolescencia** de **cuarto año** correspondientes al examen de la comisión evaluadora: 
 
+**Temario**
+
 1. Concepto de Salud según la OMS y OPS. La visión integral Bio-Psico-Socio-Espiritual.
 2. Epidemia, endemia y pandemia. Definición y ejemplos. 
 3. Factores de riesgo y factores de protección. Definición y ejemplos.
