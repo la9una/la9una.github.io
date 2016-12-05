@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Plain v2.0
 
 **The Plain** - just another white clean minimalist Jekyll theme that focuses on writing matters. Suitable for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. The typeface used is [Karla](https://fonts.google.com/specimen/Karla?selection.family=Karla) from Google Fonts.
@@ -15,3 +16,8 @@ This theme is based on Leonard Lamprecht's original [Jekyll theme](https://githu
 ### License
 
 [MIT](LICENSE.md)
+=======
+# Mi sitio web personal
+
+Mi nombre es Raúl y este es mi sitio web personal. 
+>>>>>>> e89c59e31e38db02b354da71566c041679970ba1
