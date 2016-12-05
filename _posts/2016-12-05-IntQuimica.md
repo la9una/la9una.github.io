@@ -9,8 +9,8 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-* [Mayo de 2016](../medocs/5iqui/2016_05_16_com_eva_int_quimica_brunetti.pdf)
-* [Agosto de 2016](../medocs/5iqui/2016_08_01_com_eva_int_quimica_brunetti.pdf)
-* [Octubre de 2016](../medocs/5iqui/2016_10_com_eva_int_quimica_brunetti.pdf)
+* [Mayo de 2016](../medocs/5iqui/brunetti/2016_05_16_com_eva_int_quimica_brunetti.pdf)
+* [Agosto de 2016](../medocs/5iqui/brunetti/2016_08_01_com_eva_int_quimica_brunetti.pdf)
+* [Octubre de 2016](../medocs/5iqui/brunetti/2016_10_com_eva_int_quimica_brunetti.pdf)
 
 ¡Éxito!

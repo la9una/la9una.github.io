@@ -9,8 +9,8 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-* [Mayo de 2016](../medocs/3fqui/2016_05_20_com_eva_fisico_quimica_ramos.pdf)
-* [Agosto de 2016](../medocs/3fqui/2016_08_02_com_eva_fisico_quimica_ramos.pdf)
-* [Octubre de 2016](../medocs/3fqui/2016_10_com_eva_fisico_quimica_ramos.pdf)
+* [Mayo de 2016](../medocs/3fqui/ramos/2016_05_20_com_eva_fisico_quimica_ramos.pdf)
+* [Agosto de 2016](../medocs/3fqui/ramos/2016_08_02_com_eva_fisico_quimica_ramos.pdf)
+* [Octubre de 2016](../medocs/3fqui/ramos/2016_10_com_eva_fisico_quimica_ramos.pdf)
 
 ¡Éxito!
