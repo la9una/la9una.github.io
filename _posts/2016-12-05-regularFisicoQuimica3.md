@@ -1,5 +1,5 @@
 ---
-title: Físico Química 3 (regular)
+title: Físico Química 3 (Regular)
 updated: 2015-12-05 15:56
 ---
 

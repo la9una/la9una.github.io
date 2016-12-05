@@ -1,5 +1,5 @@
 ---
-title: Introducción a la Química (regular)
+title: Intoducción a la Química (Regular)
 updated: 2015-12-05 15:56
 ---
 

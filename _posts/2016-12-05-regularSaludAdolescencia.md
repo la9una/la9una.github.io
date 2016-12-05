@@ -1,5 +1,5 @@
 ---
-title: Salud y Adolescencia (regular)
+title: Salud y Adolescencia (Regular)
 updated: 2015-12-05 15:56
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Introducción a la Física (regular)
+title: Introducción a la Física (Regular)
 updated: 2015-12-05 15:56
 ---
 
