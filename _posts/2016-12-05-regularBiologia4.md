@@ -1,5 +1,5 @@
 ---
-title: Biología 4 (Regular)
+title: Biología 4
 updated: 2015-12-05 15:56
 ---
 

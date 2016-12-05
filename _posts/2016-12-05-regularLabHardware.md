@@ -1,5 +1,5 @@
 ---
-title: Laboratorio de Hardware I (Regular)
+title: Laboratorio de Hardware I
 updated: 2015-12-05 15:56
 ---
 

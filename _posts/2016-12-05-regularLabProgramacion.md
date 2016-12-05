@@ -1,5 +1,5 @@
 ---
-title: Laboratorio de Programación I (Regular)
+title: Laboratorio de Programación I
 updated: 2015-12-05 15:56
 ---
 

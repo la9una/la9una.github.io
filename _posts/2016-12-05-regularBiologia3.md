@@ -1,5 +1,5 @@
 ---
-title: Biología 3 (Regular)
+title: Biología 3
 updated: 2015-12-05 15:56
 ---
 
