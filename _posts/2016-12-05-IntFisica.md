@@ -1,6 +1,7 @@
 ---
 title: Introducción a la Física
 updated: 2015-12-05 15:56
+comments: true
 ---
 
 ### Pendientes (Prof. Emanuel Brunetti) 
