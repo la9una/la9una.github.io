@@ -35,6 +35,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-* [TP Catequesis 5 2016 - Alumnos libres](../medocs/3biol/lopez/libres/catequesis_libres_com_eval.pdf)
+* [TP Catequesis 5 2016 - Alumnos libres](../medocs/catequesis/libres/catequesis_libres_com_eval.pdf)
 
 ¡Exitos!

@@ -47,7 +47,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/medocs/3biol/lopez/libres/3_biologia_libres_com_eval.pdf</loc>
-<lastmod>2016-12-09T14:19:22-03:00</lastmod>
+<lastmod>2016-12-09T17:23:07-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/medocs/3biol/ramos/2016_05_20_com_eva_biologia3_ramos.pdf</loc>
@@ -64,6 +64,10 @@
 <url>
 <loc>http://localhost:4000/medocs/3biol/ramos/2016_12_06_com_eva_biologia3_ramos.pdf</loc>
 <lastmod>2016-12-06T04:55:27-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/medocs/3fqui/lopez/libres/3_fqca_libres_com_eval.pdf</loc>
+<lastmod>2016-12-09T17:21:39-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/medocs/3fqui/ramos/2016_05_20_com_eva_fisico_quimica_ramos.pdf</loc>
@@ -110,6 +114,10 @@
 <lastmod>2016-12-06T08:12:06-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/medocs/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf</loc>
+<lastmod>2016-12-09T16:16:18-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/medocs/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf</loc>
 <lastmod>2016-05-24T01:06:05-03:00</lastmod>
 </url>
@@ -140,5 +148,13 @@
 <url>
 <loc>http://localhost:4000/medocs/5iqui/brunetti/2016_12_06_com_eva_int_quimica_brunetti.pdf</loc>
 <lastmod>2016-12-06T08:23:22-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/medocs/5iqui/lopez/libres/5_iqca_libres_com_eval.pdf</loc>
+<lastmod>2016-12-09T16:12:41-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/medocs/catequesis/libres/catequesis_libres_com_eval.pdf</loc>
+<lastmod>2016-12-09T17:15:22-03:00</lastmod>
 </url>
 </urlset>

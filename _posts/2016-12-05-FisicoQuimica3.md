@@ -26,12 +26,15 @@ Se detallan a continuación los contenidos centrales de la materia **Físico-Qu�
 
 **Temario**
 
+* Modelos atómicos: Thomson. Rutherford. Bhor. El modelo Mecánico-Cuántico. 
 * La estructura del átomo. Partículas subatómicas: electrones, protones y neutrones. Niveles de energía electrónicos. Distribución de
 electrones por nivel: configuración electrónica externa. 
 * Tabla periódica. Estructura del núcleo. Número atómico y número de masa. Isótopos.
-* Unión iónica y unión covalente. Electronegatividad. 
+* Propiedades periódicas: Electronegativdad, radio atómico y energía de ionización.
+* Unión iónica y unión covalente. Características. 
 * Diagramas o estructuras de Lewis. Fórmulas de sustancia binarias de compuestos sencillos.
 * Modelización del cambio químico: lo que se conserva y lo que cambia en el proceso. 
+* Cambios físicos y químicos.
 * Las reacciones químicas: su representación y su significado.
 * Las reacciones nucleares: Reacciones de fisión y fusión. Energía implicada en reacciones nucleares. Reacciones controladas y espontáneas. Reactores nucleares. Radiactividad natural. Aplicaciones tecnológicas de las radiaciones y sus consecuencias.
 * Intercambio de energía térmica: Calor y Temperatura. Interpretación microscópica de la Temperatura. Escalas termométricas: Celsius, Fahrenheit y Kelvin. Mecanismos de intercambio de calor. 
@@ -50,6 +53,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-* [TP Físico-Química 2016 - Alumnos libres](../medocs/3fqca/lopez/libres/3_fqca_libres_com_eval.pdf)
+* [TP Físico-Química 2016 - Alumnos libres](../medocs/3fqui/lopez/libres/3_fqca_libres_com_eval.pdf)
 
 ¡Éxito!

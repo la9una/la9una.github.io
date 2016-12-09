@@ -33,6 +33,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-No hay alumnos en esta condición.
+> No hay alumnos en esta condición.
 
 ¡Exitos!
