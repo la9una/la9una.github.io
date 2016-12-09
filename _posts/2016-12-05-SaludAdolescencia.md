@@ -16,6 +16,10 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 
 ### Regulares (Prof. Raúl López)
 
+[**Ver notas: 3T y Final**](../meimg/notas3TFinal/4A_SYAD.png)
+
+> Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
+
 Se detallan a continuación los contenidos centrales de la materia **Salud y Adolescencia** de **cuarto año** correspondientes al examen de la comisión evaluadora: 
 
 **Temario**
@@ -47,6 +51,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-
+* [TP Salud y Adolescencia 2016 - Alumnos libres](../medocs/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf)
 
 ¡Éxito!
