@@ -11,5 +11,6 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 
 * [Agosto de 2016](../medocs/4ifis/brunetti/2016_08_01_com_eval_int_fisica_brunetti.pdf)
 * [Octubre de 2016](../medocs/4ifis/brunetti/2016_10_com_eval_int_fisica_brunetti.pdf)
+* [Diciembre de 2016](../medocs/4ifis/brunetti/2016_12_06_com_eval_int_fisica_brunetti.pdf)
 
 ¡Éxito!
