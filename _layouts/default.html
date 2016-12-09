@@ -18,6 +18,8 @@ layout: compress
 		<main>
 		        
 			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
+
+			{% include disqus.html %}
 		</main>
 
 		{% include footer.html %}
