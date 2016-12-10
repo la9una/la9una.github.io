@@ -13,7 +13,7 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 * [Mayo de 2016](../medocs/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf)
 * [Agosto de 2016](../medocs/4saad/ramos/2016_08_02_com_eva_saludyadol_ramos.pdf)
 * [Octubre de 2016](../medocs/4saad/ramos/2016_10_com_eva_saludyadol_ramos.pdf)
-* [Octubre de 2016](../medocs/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)
+* [Diciembre de 2016](../medocs/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)
 
 ### Regulares (Prof. Raúl López)
 

@@ -19,6 +19,10 @@ Se detallan a continuación los contenidos centrales de la materia **Catequesis*
 * Jesús y la salvación integral del hombre. Los encuentros de Jesús en los evangelios.
 * Jesús nos revela el Reino de Dios a través de las parábolas. 
 * La moral cristiana: Los mandamientos. El sermón de la montaña.
+
+> Los alumnos deberán presentar en la comisión evaluadora el trabajo sobre **proyecto de vida**:
+> * [TP Proyecto de vida - Parte 1/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_1_de_2.pdf)
+> * [TP Proyecto de vida - Parte 2/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_2_de_2.pdf)
  
 #### Alumnos libres
 
