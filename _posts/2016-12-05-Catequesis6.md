@@ -21,6 +21,7 @@ Se detallan a continuación los contenidos centrales de la materia **Catequesis*
 * La moral cristiana: Los mandamientos. El sermón de la montaña.
 
 > Los alumnos deberán presentar en la comisión evaluadora el trabajo sobre **proyecto de vida**:
+> 
 > * [TP Proyecto de vida - Parte 1/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_1_de_2.pdf)
 > * [TP Proyecto de vida - Parte 2/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_2_de_2.pdf)
  
