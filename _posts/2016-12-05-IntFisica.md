@@ -34,6 +34,7 @@ Se detallan a continuación los contenidos centrales de la materia **Introducci�
 * La energía eléctrica. Circuitos eléctricos. Aislantes y conductores. Ley de Ohm.
 
 **Exámenes regulares**
+
 * [Diciembre de 2016](../medocs/4ifis/lopez/regulares/2016_dic_int_fisica4_regulares.pdf)
 
 #### Alumnos libres
