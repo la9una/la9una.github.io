@@ -18,8 +18,7 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 
 ### Regulares (Prof. Raul López)
 
-* [**3A - Ver notas: 3T y Final**](../meimg/notas3TFinal/3A_FQCA.png)
-* [**3B - Ver notas: 3T y Final**](../meimg/notas3TFinal/3B_FQCA.png)
+* [Físico-Química 3 - Comisión Evaluadora - Diciembre de 2016](../medocs/3fqui/lopez/regulares/2016_12_16_com_eva_fisico_quimica.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 

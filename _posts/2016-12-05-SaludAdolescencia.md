@@ -17,7 +17,7 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 
 ### Regulares (Prof. Raúl López)
 
-[**Ver notas: 3T y Final**](../meimg/notas3TFinal/4A_SYAD.png)
+* [Salud y Adolescencia - Comisión Evaluadora - Diciembre de 2016](../medocs/4saad/lopez/regulares/2016_12_com_eval_saludyadol_4to.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 

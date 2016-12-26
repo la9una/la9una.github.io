@@ -17,7 +17,7 @@ Se incluyen a continuación modelos de exámenes tomados recientemente en las **
 
 ### Regulares (Prof. Raul López)
 
-[**Ver notas: 3T y Final**](../meimg/notas3TFinal/4A_IFIS.png)
+* [Int. a la Física - Comisión Evaluadora - Diciembre de 2016](../medocs/4ifis/lopez/regulares/2016_dic_int_fisica4_regulares.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
@@ -32,10 +32,6 @@ Se detallan a continuación los contenidos centrales de la materia **Introducci�
 * Noción de trabajo mecánico. Teorema del trabajo y la energía. 
 * Fusión y fisión. Radiactividad natural. Centrales nucleares. Accidentes nucleares.
 * La energía eléctrica. Circuitos eléctricos. Aislantes y conductores. Ley de Ohm.
-
-**Exámenes regulares**
-
-* [Diciembre de 2016](../medocs/4ifis/lopez/regulares/2016_dic_int_fisica4_regulares.pdf)
 
 #### Alumnos libres
 

@@ -4,8 +4,7 @@ updated: 2015-12-05 15:56
 comments: true
 ---
 
-
-[**Ver notas: 3T y Final**](../meimg/notas3TFinal/5A_CATE.png)
+* [Catequesis - Comisión Evaluadora - Diciembre de 2016](../medocs/catequesis/regulares/2016_12_com_eval_catequesis.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
