@@ -1,7 +1,6 @@
 ---
-title: Laboratorio de Hardware I
-updated: 2015-12-05 15:56
-comments: true
+title: Informática 3
+updated: 2017-03-13 15:00
 ---
 
 ### En construcción
