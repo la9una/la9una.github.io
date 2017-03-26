@@ -4,17 +4,6 @@ updated: 2015-12-05 15:56
 comments: true
 ---
 
-### Pendientes (Prof. Emanuel Brunetti) 
-
-Los temas incluidos en la comisión evaluadora son seleccionados a partir de los impartidos por el profesor **Emanuel Brunetti** en **Introducción a la Química** de **quinto año**. 
-
-Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
-
-* [Mayo de 2016](../docs/sanjose/5iqui/brunetti/2016_05_16_com_eva_int_quimica_brunetti.pdf)
-* [Agosto de 2016](../docs/sanjose/5iqui/brunetti/2016_08_01_com_eva_int_quimica_brunetti.pdf)
-* [Octubre de 2016](../docs/sanjose/5iqui/brunetti/2016_10_com_eva_int_quimica_brunetti.pdf)
-* [Diciembre de 2016](../docs/sanjose/5iqui/brunetti/2016_12_06_com_eva_int_quimica_brunetti.pdf)
-
 ### Regulares (Prof. Raul López)
 
 * [Diciembre de 2016](../docs/sanjose/5iqui/lopez/regulares/2016_12_com_eval_int_quimica_5to.pdf)
@@ -58,3 +47,15 @@ En este otro caso, el alumno deberá asistir a la comisión evaluadora, presenta
 * [TP Introducción a la Química 2016 - Alumnos libres](../docs/sanjose/5iqui/lopez/libres/5_iqca_libres_com_eval.pdf)
 
 ¡Éxito!
+
+
+### Pendientes (Prof. Emanuel Brunetti) 
+
+Los temas incluidos en la comisión evaluadora son seleccionados a partir de los impartidos por el profesor **Emanuel Brunetti** en **Introducción a la Química** de **quinto año**. 
+
+Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
+
+* [Mayo de 2016](../docs/sanjose/5iqui/brunetti/2016_05_16_com_eva_int_quimica_brunetti.pdf)
+* [Agosto de 2016](../docs/sanjose/5iqui/brunetti/2016_08_01_com_eva_int_quimica_brunetti.pdf)
+* [Octubre de 2016](../docs/sanjose/5iqui/brunetti/2016_10_com_eva_int_quimica_brunetti.pdf)
+* [Diciembre de 2016](../docs/sanjose/5iqui/brunetti/2016_12_06_com_eva_int_quimica_brunetti.pdf)
