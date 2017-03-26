@@ -5,7 +5,8 @@ comments: true
 ---
 
 
-* [Catequesis - Comisión Evaluadora - Diciembre de 2016](../medocs/catequesis/regulares/2016_12_com_eval_catequesis.pdf)
+* [Diciembre de 2016](../docs/sanjose/catequesis/regulares/2016_12_com_eval_catequesis.pdf)
+* [Febrero de 2017](../docs/sanjose/catequesis/regulares/2017_02_23_com_eval_catequesis.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
@@ -22,8 +23,8 @@ Se detallan a continuación los contenidos centrales de la materia **Catequesis*
 
 > Los alumnos deberán presentar en la comisión evaluadora el trabajo sobre **proyecto de vida**:
 > 
-> * [TP Proyecto de vida - Parte 1/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_1_de_2.pdf)
-> * [TP Proyecto de vida - Parte 2/2](../medocs/catequesis/regulares/6A/2016_proyecto_vida_parte_2_de_2.pdf)
+> * [TP Proyecto de vida - Parte 1/2](../docs/sanjose/catequesis/regulares/6A/2016_proyecto_vida_parte_1_de_2.pdf)
+> * [TP Proyecto de vida - Parte 2/2](../docs/sanjose/catequesis/regulares/6A/2016_proyecto_vida_parte_2_de_2.pdf)
  
 #### Alumnos libres
 

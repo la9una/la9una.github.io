@@ -10,14 +10,16 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-* [Mayo de 2016](../medocs/5iqui/brunetti/2016_05_16_com_eva_int_quimica_brunetti.pdf)
-* [Agosto de 2016](../medocs/5iqui/brunetti/2016_08_01_com_eva_int_quimica_brunetti.pdf)
-* [Octubre de 2016](../medocs/5iqui/brunetti/2016_10_com_eva_int_quimica_brunetti.pdf)
-* [Diciembre de 2016](../medocs/5iqui/brunetti/2016_12_06_com_eva_int_quimica_brunetti.pdf)
+* [Mayo de 2016](../docs/sanjose/5iqui/brunetti/2016_05_16_com_eva_int_quimica_brunetti.pdf)
+* [Agosto de 2016](../docs/sanjose/5iqui/brunetti/2016_08_01_com_eva_int_quimica_brunetti.pdf)
+* [Octubre de 2016](../docs/sanjose/5iqui/brunetti/2016_10_com_eva_int_quimica_brunetti.pdf)
+* [Diciembre de 2016](../docs/sanjose/5iqui/brunetti/2016_12_06_com_eva_int_quimica_brunetti.pdf)
 
 ### Regulares (Prof. Raul López)
 
-* [Introducción a la Química - Comisión Evaluadora - Diciembre de 2016](../medocs/5iqui/lopez/regulares/2016_12_com_eval_int_quimica_5to.pdf)
+* [Diciembre de 2016](../docs/sanjose/5iqui/lopez/regulares/2016_12_com_eval_int_quimica_5to.pdf)
+* [Febrero de 2017](../docs/sanjose/5iqui/lopez/regulares/2017_02_23_com_eval_int_quimica.pdf)
+
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
@@ -53,6 +55,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-* [TP Introducción a la Química 2016 - Alumnos libres](../medocs/5iqui/lopez/libres/5_iqca_libres_com_eval.pdf)
+* [TP Introducción a la Química 2016 - Alumnos libres](../docs/sanjose/5iqui/lopez/libres/5_iqca_libres_com_eval.pdf)
 
 ¡Éxito!

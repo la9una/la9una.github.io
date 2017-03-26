@@ -10,14 +10,17 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-* [Mayo de 2016](../medocs/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf)
-* [Agosto de 2016](../medocs/4saad/ramos/2016_08_02_com_eva_saludyadol_ramos.pdf)
-* [Octubre de 2016](../medocs/4saad/ramos/2016_10_com_eva_saludyadol_ramos.pdf)
-* [Diciembre de 2016](../medocs/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)
+* [Mayo de 2016](../docs/sanjose/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf)
+* [Agosto de 2016](../docs/sanjose/4saad/ramos/2016_08_02_com_eva_saludyadol_ramos.pdf)
+* [Octubre de 2016](../docs/sanjose/4saad/ramos/2016_10_com_eva_saludyadol_ramos.pdf)
+* [Diciembre de 2016](../docs/sanjose/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)
 
 ### Regulares (Prof. Raúl López)
 
-* [Salud y Adolescencia - Comisión Evaluadora - Diciembre de 2016](../medocs/4saad/lopez/regulares/2016_12_com_eval_saludyadol_4to.pdf)
+* [Diciembre de 2016](../docs/sanjose/4saad/lopez/regulares/2016_12_com_eval_saludyadol_4to.pdf)
+* [Febrero de 2017](../docs/sanjose/4saad/lopez/regulares/2017_02_23_com_eva_saludyadol.pdf)
+
+
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
@@ -52,6 +55,6 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-* [TP Salud y Adolescencia 2016 - Alumnos libres](../medocs/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf)
+* [TP Salud y Adolescencia 2016 - Alumnos libres](../docs/sanjose/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf)
 
 ¡Éxito!
