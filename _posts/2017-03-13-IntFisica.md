@@ -3,8 +3,8 @@ title: Introducción a la Física
 updated: 2017-03-13 15:00
 ---
 
-### En construcción
+### Magnitudes físicas
 
-Esta sección se encuentra en construcción. 
+* [Teoría de errores](../docs/itel/2017/intfisica/01.TeoriaErrores.pdf)
 
-Muchas gracias. 
+
