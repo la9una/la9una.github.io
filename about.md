@@ -7,8 +7,7 @@ Mi nombre es Raúl y vivo en Buenos Aires, Argentina. Soy profesor a tiempo comp
 
 **Contacto:** 
 
-[Twitter](https://www.twitter.com/la9una "Seguime en Twitter") 
-
-[Facebook](https://www.facebook.com/rauljesuslopez "Mi perfil en Facebook")
+<i class="fa fa-twitter" aria-hidden="true"></i> (https://www.twitter.com/la9una "Seguime en Twitter")<br /> 
+<i class="fa fa-facebook-official" aria-hidden="true"></i>(https://www.facebook.com/rauljesuslopez "Mi perfil en Facebook")
 
 ¡Nos vemos!
