@@ -8,8 +8,8 @@ comments: true
 
 > Instituto San José de Villa Urbana 
 
-<i class="fa fa-download" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4ifis/lopez/regulares/2016_dic_int_fisica4_regulares.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/4ifis/lopez/regulares/2017_com_eval_feb_int_fisica.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4ifis/lopez/regulares/2016_dic_int_fisica4_regulares.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/4ifis/lopez/regulares/2017_com_eval_feb_int_fisica.pdf)
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
 
@@ -49,6 +49,6 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-<i class="fa fa-download" aria-hidden="true"></i>  [Agosto de 2016](../docs/sanjose/4ifis/brunetti/2016_08_01_com_eval_int_fisica_brunetti.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Octubre de 2016](../docs/sanjose/4ifis/brunetti/2016_10_com_eval_int_fisica_brunetti.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4ifis/brunetti/2016_12_06_com_eval_int_fisica_brunetti.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Agosto de 2016](../docs/sanjose/4ifis/brunetti/2016_08_01_com_eval_int_fisica_brunetti.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Octubre de 2016](../docs/sanjose/4ifis/brunetti/2016_10_com_eval_int_fisica_brunetti.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4ifis/brunetti/2016_12_06_com_eval_int_fisica_brunetti.pdf)

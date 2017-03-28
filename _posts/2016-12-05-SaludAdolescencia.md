@@ -6,8 +6,8 @@ comments: true
 
 ### Regulares (Prof. Raúl López)
 
-<i class="fa fa-download" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4saad/lopez/regulares/2016_12_com_eval_saludyadol_4to.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/4saad/lopez/regulares/2017_02_23_com_eva_saludyadol.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4saad/lopez/regulares/2016_12_com_eval_saludyadol_4to.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/4saad/lopez/regulares/2017_02_23_com_eva_saludyadol.pdf)
 
 
 
@@ -44,7 +44,7 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-<i class="fa fa-download" aria-hidden="true"></i>  [TP Salud y Adolescencia 2016 - Alumnos libres](../docs/sanjose/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [TP Salud y Adolescencia 2016 - Alumnos libres](../docs/sanjose/4saad/lopez/libres/4_saludyadol_libres_com_eval.pdf)
 
 ¡Éxito!
 
@@ -55,7 +55,7 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-<i class="fa fa-download" aria-hidden="true"></i>  [Mayo de 2016](../docs/sanjose/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Agosto de 2016](../docs/sanjose/4saad/ramos/2016_08_02_com_eva_saludyadol_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Octubre de 2016](../docs/sanjose/4saad/ramos/2016_10_com_eva_saludyadol_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Mayo de 2016](../docs/sanjose/4saad/ramos/2016_05_24_com_eva_saludyadol_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Agosto de 2016](../docs/sanjose/4saad/ramos/2016_08_02_com_eva_saludyadol_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Octubre de 2016](../docs/sanjose/4saad/ramos/2016_10_com_eva_saludyadol_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/4saad/ramos/2016_12_06_com_eva_saludyadol_ramos.pdf)

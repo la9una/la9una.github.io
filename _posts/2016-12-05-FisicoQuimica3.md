@@ -6,8 +6,8 @@ comments: true
 
 ### Regulares (Prof. Raul López)
 
-<i class="fa fa-download" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/3fqui/lopez/regulares/2016_12_16_com_eva_fisico_quimica.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/3fqui/lopez/regulares/2017_02_17_com_eva_fisico_quimica.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Diciembre de 2016](../docs/sanjose/3fqui/lopez/regulares/2016_12_16_com_eva_fisico_quimica.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Febrero de 2017](../docs/sanjose/3fqui/lopez/regulares/2017_02_17_com_eva_fisico_quimica.pdf)
 
 
 > Los alumnos que se "llevaron la materia" deberán estudiar la totalidad de los contenidos de la materia, que serán evaluados ya a partir de la instancia de evaluación de diciembre. 
@@ -43,7 +43,7 @@ En este caso el alumno deberá rendir la totalidad de contenidos dictados durant
 
 En este otro caso, el alumno deberá asistir a la comisión evaluadora, presentando el siguiente trabajo práctico realizado: 
 
-<i class="fa fa-download" aria-hidden="true"></i> [TP Físico-Química 2016 - Alumnos libres](../docs/sanjose/3fqui/lopez/libres/3_fqca_libres_com_eval.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [TP Físico-Química 2016 - Alumnos libres](../docs/sanjose/3fqui/lopez/libres/3_fqca_libres_com_eval.pdf)
 
 ¡Éxito!
 
@@ -53,10 +53,10 @@ Los temas incluidos en la comisión evaluadora son seleccionados a partir de los
 
 Se incluyen a continuación modelos de exámenes tomados recientemente en las **comisiones evaluadoras**: 
 
-<i class="fa fa-download" aria-hidden="true"></i> [Mayo de 2016](../docs/sanjose/3fqui/ramos/2016_05_20_com_eva_fisico_quimica_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i> [Agosto de 2016](../docs/sanjose/3fqui/ramos/2016_08_02_com_eva_fisico_quimica_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i> [Octubre de 2016](../docs/sanjose/3fqui/ramos/2016_10_com_eva_fisico_quimica_ramos.pdf)<br />
-<i class="fa fa-download" aria-hidden="true"></i> [Diciembre de 2016](../docs/sanjose/3fqui/ramos/2016_12_06_com_eva_fisico_quimica_ramos.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mayo de 2016](../docs/sanjose/3fqui/ramos/2016_05_20_com_eva_fisico_quimica_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Agosto de 2016](../docs/sanjose/3fqui/ramos/2016_08_02_com_eva_fisico_quimica_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Octubre de 2016](../docs/sanjose/3fqui/ramos/2016_10_com_eva_fisico_quimica_ramos.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Diciembre de 2016](../docs/sanjose/3fqui/ramos/2016_12_06_com_eva_fisico_quimica_ramos.pdf)
 
 
 
