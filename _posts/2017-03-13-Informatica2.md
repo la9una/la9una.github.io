@@ -12,3 +12,5 @@ updated: 2017-03-13 15:00
 
 ### Guías de trabajo
 
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Ejercicios Inkscape - Nivel inicial](../docs/itel/2017/informatica2/InkscapeEjercicios.zip)<br />
+
