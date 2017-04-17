@@ -7,6 +7,7 @@ updated: 2017-03-13 15:00
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Introducción al diseño web](../docs/itel/2017/informatica3/disenoWeb.pdf)<br />
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Fundamentos de HTML](../docs/itel/2017/informatica3/fundamentosHTML.pdf)<br />
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Fundamentos de HTML (segunda parte)](../docs/itel/2017/informatica3/fundamentosHTML2.pdf)<br />
 
 ### Software
 
