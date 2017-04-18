@@ -38,7 +38,7 @@ Guardalo con el nombre de `ejercicio8.html`. Luego, abrí el archivo con tu nave
 1. ¿Qué es lo que lo que exhibe el navegador? 
 2. Observá las etiquetas y respondé: ¿qué función cumplen las etiquetas `<tr>` y `<td>`
 
-Efectivamente, acabás de crear una tabla, donde la etiqueta **`<tr>` representa a las columnas** y la etiqueta **`<td>` forma las filas** de la tabla. 
+Efectivamente, acabás de crear una tabla, donde las etiquetas **`<tr>` representan a las columnas** y la etiquetas **`<td>` forman las filas** de la tabla. 
 
 ¿Que no se aprecia bien la tabla? Probá agregándole un borde, incluyendo el siguiente código dentro de la etiqueta `<table>`, según: 
 
@@ -46,7 +46,7 @@ Efectivamente, acabás de crear una tabla, donde la etiqueta **`<tr>` representa
 <!DOCTYPE html>
 <html>
     <head>
-      <title>Ejercicio 9</title>
+      <title>Ejercicio 8</title>
     </head>
     <body>
       <table border="1">
@@ -77,6 +77,7 @@ Para poder interactuar con la página es necesario el empleo de **formularios**.
 Copiá el siguiente código y guardalo con el nombre `ejercicio9.html`:
 
 ```html
+<!DOCTYPE html>
 <html lang=es>
     <head>
       <meta charset="UTF-8">
@@ -111,10 +112,11 @@ En este ejercicio, deberás crear un archivo con el siguiente código, guardando
 
 
 ```html
+<!DOCTYPE html>
 <html lang=es>
     <head>
       <meta charset="UTF-8">
-      <title>Ejercicio 9</title>
+      <title>Ejercicio 10</title>
     </head>
     <body>
     
@@ -191,3 +193,28 @@ En este ejercicio, deberás crear un archivo con el siguiente código, guardando
 
 1. Hacé una lista de todos los tipos de campos, indicando su nombre original en inglés
 2. Intentá explicar las opciones de cada campo. 
+
+### Ejercicio11.html
+
+Copiá el siguiente código y guardalo con el nombre `ejercicio11.html`:
+
+```html
+<!DOCTYPE html>
+<html>
+    <head> 
+    	<meta charset="UTF-8">
+    	<title>Ejercicio 11</title>
+    </head>
+    <body>
+		<span>Número 1</span>
+		<span>Número 2</span>
+		<span>Número 3</span>
+		<div>Letra A</div>
+		<div>Letra B</div>
+		<div>Letra C</div>
+    </body>
+</html>
+```
+1. En el ejemplo, hemos empleado dos tipos de etiquetas: `<span>` y `<div>` ¿Cuál es la diferencia visible entre ellas?
+
+2. Los **elementos en bloque (block)** son aquellos que generan un salto de línea (un nuevo renglón) al ser empleados). Los elementos que pueden colocarse uno al lado del otro sin generar un nuevo renglón se conocen como **elementos en línea (inline)**. ¿A qué grupo pertenecen las etiquetas `<span>` y `<div>`.
